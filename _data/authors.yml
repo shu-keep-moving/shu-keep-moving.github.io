@@ -7,8 +7,13 @@
 # -------------------------------------
 
 cotes:
-  name: mountain
-  twitter: mountain
+  name: andrew
+  twitter: andrew
+  url: https://github.com/shu-keep-moving/
+
+andrew:
+  name: andrew
+  twitter: andrew
   url: https://github.com/shu-keep-moving/
 
 sille_bille:
